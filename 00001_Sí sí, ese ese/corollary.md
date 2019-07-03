@@ -1,0 +1,1 @@
+¡Muy bien! :clap: A partir de ahora vamos a tener un archivo `index.html` donde va a estar la estructura de la receta que construimos en la lección anterior y el archivo `receta.css` que va a contener el estilo que le vamos a dar a esa estructura. ¡Sigamos! :dizzy:
