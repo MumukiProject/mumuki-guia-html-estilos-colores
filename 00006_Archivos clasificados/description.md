@@ -24,4 +24,4 @@ Por suerte en HTML contamos con el atributo `<class>` para poder solucionar nues
 >.descripcion {
 >  color: blue;
 > }
->```
+```
