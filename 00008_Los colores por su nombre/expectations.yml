@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css.descripcion
-  inspection: DeclaresStyle:color:blue
+  inspection: DeclaresStyle:blue
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css.header
-  inspection: 'DeclaresStyle:color: rgb(255,0,255)'
+  inspection: DeclaresStyle:rgb(255,0,255)
