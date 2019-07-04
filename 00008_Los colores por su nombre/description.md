@@ -34,4 +34,4 @@ Hasta ahora vimos solo CANTIDAD de colores… Pero, ¡hay más de 100 nombres de
 
 ¿Y esos números? :scream: Cada número es la cantidad de rojo, verde o azul, respectivamente, que vamos a usar para definir un color y va desde `0` a `255`. 
 
-> Creá una regla para que el `<header>` tenga color `rgb(255,0,255)`. ¿Te imaginás qué color es? 
+> Agregá la regla para que el `<header>` tenga color `rgb(255,0,255)`. ¿Te imaginás qué color es? 
