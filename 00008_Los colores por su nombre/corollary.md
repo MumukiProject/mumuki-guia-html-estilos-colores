@@ -1,1 +1,1 @@
-¡Así es! Si mezclamos pintura roja y azul :paint:, formamos el color violeta. Lo mismo pasa si combinamos 255 de color rojo con 255 de color azul. ¿Y si hubiese sido 100 de rojo y 100 de azul? :thougth_baloon: También sería violeta pero menos intenso.
+¡Así es! Si mezclamos pintura roja y azul :art:, formamos el color violeta. Lo mismo pasa si combinamos 255 de color rojo con 255 de color azul. ¿Y si hubiese sido 100 de rojo y 100 de azul? :thougth_balloon: También sería violeta pero menos intenso.
