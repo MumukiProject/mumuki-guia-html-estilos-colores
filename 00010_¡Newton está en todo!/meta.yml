@@ -22,4 +22,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Verde
   checked: true
-name: New exercise
+name: "¡Newton está en todo!"
