@@ -1,0 +1,1 @@
+¡Excelente! ¿Y qué pasaría si combinamos 255 de rojo, 255 de verde y 255 de azul? :open_mouth: 
