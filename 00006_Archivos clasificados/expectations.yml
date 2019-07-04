@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: ".descripcion"
+  binding: css:.descripcion
   inspection: 'DeclaresStyle:color: blue;'
