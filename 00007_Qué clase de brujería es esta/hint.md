@@ -1,0 +1,1 @@
+Cuidado :warning: también hay un `<h2>` dentro del `<aside>` pero no queremos que quede afectado por la clase `titulo`.
