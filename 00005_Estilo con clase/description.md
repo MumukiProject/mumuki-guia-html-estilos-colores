@@ -30,6 +30,6 @@ Nuestro HTML quedaría de esta forma:
 >
 > ```css
 > p {
->	color: ALGUN_COLOR;
+>	color: blue;
 > }
 ```
