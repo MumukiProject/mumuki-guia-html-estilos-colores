@@ -5,7 +5,7 @@ Antes de cambiar el color de fondo, vamos a desglosar el código del ejercicio a
    background-color: black;
  }
 ```
-... para conocer cada una de sus partes:
+... para conocer cada una de sus partes: 
 
 * _bloque de declaraciones_: es todo lo que está entre llaves `{ }`.
 * _declaración_: cada línea con forma `propiedad: valor;` dentro de ese bloque. 
