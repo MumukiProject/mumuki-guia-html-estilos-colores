@@ -2,16 +2,16 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:body
-  inspection: DeclaresStyle:background-color:NOMBRECOLOR
+  inspection: DeclaresStyle:background-color:tan
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: DeclaresStyle:color:NOMBRECOLOR
+  inspection: DeclaresStyle:color:darkred
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:section
-  inspection: DeclaresStyle:color:NOMBRECOLOR
+  inspection: DeclaresStyle:color:saddlebrown
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.titulo
-  inspection: DeclaresStyle:color:NOMBRECOLOR
+  inspection: DeclaresStyle:color:maroon
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body/section/h2
   inspection: DeclaresAttribute:class="titulo"
