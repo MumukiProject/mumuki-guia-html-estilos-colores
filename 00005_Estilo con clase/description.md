@@ -1,9 +1,10 @@
-Olvidémonos por un momento de nuestra receta e imaginemos la estructura de una página web para ver películas argentinas en la que vamos a tener: 
+Olvidémonos por un momento de nuestra receta e imaginemos la estructura de una página web para ver películas argentinas :tv: en la que vamos a tener: 
 
 * un `<section>` por cada género de películas que haya;
 * un `<article>` por cada película;
 * un `<h1>` con el nombre de cada una;
 * un párrafo `<p>` para la descripción y otro para el elencos.
+
 Nuestro HTML quedaría de esta forma: 
 
 ```html
@@ -24,7 +25,7 @@ Nuestro HTML quedaría de esta forma:
 </section>
 ```
 
-¿Y si quisiéramos poner de otro color la descripción de las películas? Deberíamos, desde nuestro archivo CSS, cambiar el color de esos `<p>`:
+¿Y si quisiéramos poner de otro color la descripción de las películas? :thinking: Deberíamos, desde nuestro archivo CSS, cambiar el color de esos `<p>`:
 
 > Si creamos la regla:
 >
