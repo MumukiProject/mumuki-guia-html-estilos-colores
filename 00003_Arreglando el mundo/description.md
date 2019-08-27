@@ -42,7 +42,7 @@ En nuestro código:
   </tr>
  </tbody>
 </table>
-
+ 
 Pero… acá hay mucho ruido y ¡pocas nueces! :stuck_out_tongue_closed_eyes:
 
 > Modificá el archivo css para que el color de fondo del `<body>` sea `tan`.
