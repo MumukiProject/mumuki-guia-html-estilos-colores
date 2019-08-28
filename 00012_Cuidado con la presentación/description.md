@@ -32,6 +32,6 @@ Para ello vamos a tener que hacer varias cosas...
 
 > 
  * Creá las reglas `titulo-genero` y `titulo-pelicula` con los requisitos de la tabla.
- * Modificá el archivo html para que cada _título del género_ tenga la clase `titulo-genero`. Análogamente con cada _título de las películas_ pero con la clase `titulo-pelicula`.
+ * Modificá el archivo HTML para que cada _título del género_ tenga la clase `titulo-genero`. Análogamente con cada _título de las películas_ pero con la clase `titulo-pelicula`.
  * Creá la regla necesaria para que el `body` tenga el color de fondo solicitado.
  * Creá la regla necesaria para que la publicidad que está en el `aside` tenga el color solicitado.
