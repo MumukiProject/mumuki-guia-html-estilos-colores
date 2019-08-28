@@ -1,4 +1,4 @@
-Hasta ahora vimos solo CANTIDAD de colores… Pero, ¡hay más de 100 nombres de colores compatibles con los navegadores que solemos usar! También podemos llamarlos por su _código RGB_, por las siglas en inglés de <span style="color:red;">rojo</span>, <span style="color:green;">verde</span> y <span style="color:blue;">azul</span> (<span style="color:red;">red</span>, <span style="color:green;">green</span> y <span style="color:blue;">blue</span>):
+Hasta ahora vimos solo algunos de colores… Pero, ¡hay más de 100 nombres de colores compatibles con los navegadores que solemos usar! También podemos llamarlos por su _código RGB_, por las siglas en inglés de <span style="color:red;">rojo</span>, <span style="color:green;">verde</span> y <span style="color:blue;">azul</span> (<span style="color:red;">red</span>, <span style="color:green;">green</span> y <span style="color:blue;">blue</span>):
 
 <table class="table table-striped"> 
   <thead>
