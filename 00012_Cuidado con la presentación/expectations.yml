@@ -13,8 +13,8 @@ expectations:
   binding: css:.titulo-pelicula
   inspection: 'DeclaresStyle:color: rgb(11,70,93)'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/h1
+  binding: html/body/section/h1
   inspection: DeclaresAttribute:class="titulo-genero"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section/h4
+  binding: html/body/section/article/h4
   inspection: DeclaresAttribute:class="titulo-pelicula"
