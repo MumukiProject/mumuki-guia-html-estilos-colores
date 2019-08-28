@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:body
-  inspection: 'DeclaresStyle:background-color: bisque'
+  inspection: DeclaresStyle:background-color:bisque
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:aside
-  inspection: 'DeclaresStyle:color: blue'
+  inspection: DeclaresStyle:color:blue
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.titulo-genero
   inspection: 'DeclaresStyle:color: rgb(255,91,129)'
