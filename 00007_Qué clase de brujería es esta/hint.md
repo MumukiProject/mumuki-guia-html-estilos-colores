@@ -1,1 +1,1 @@
-Cuidado :warning: también hay un `<h2>` dentro del `<aside>` pero no queremos que quede afectado por la clase `titulo`.
+Cuidado :warning: también hay un `<h2>` dentro del `<aside>` pero no queremos que quede afectado por la clase `titulo`. Recordá que los selectores de clase llevan un `.` delente del nombre.
