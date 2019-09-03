@@ -22,4 +22,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: El tipo de letra de los títulos.
   checked: true
-name: Sí sí, ese ese
+name: Sí, ese ese
