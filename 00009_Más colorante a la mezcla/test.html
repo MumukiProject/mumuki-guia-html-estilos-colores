@@ -1,4 +1,6 @@
 /*<output#*//*#output>*/
-/*<tests#*//*#tests>*/
+/*<tests#*/it("El header tiene color rgb(139, 0, 0)", () => {
+  document.querySelector('header').should.have.style('color','rgb(139, 0, 0)');
+});/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
