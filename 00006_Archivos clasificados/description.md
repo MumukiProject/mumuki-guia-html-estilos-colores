@@ -22,6 +22,6 @@ Por suerte en HTML contamos con el atributo `<class>` para poder solucionar nues
 >
 >```css
 >.descripcion {
->  color: blue;
+>   color: blue;
 > }
 ```
